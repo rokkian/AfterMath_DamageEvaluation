@@ -11,8 +11,6 @@ from langchain_core.prompts import PromptTemplate
 from langchain.document_loaders import UnstructuredImageLoader
 from langchain_openai import OpenAI
 
-# OpenAI API configuration
-os.environ["OPENAI_API_KEY"] = "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"
 
 # Load the pre-trained ResNet model
 model = resnet50(weights=ResNet50_Weights.DEFAULT)
