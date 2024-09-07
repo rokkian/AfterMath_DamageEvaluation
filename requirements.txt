@@ -1,2 +1,13 @@
 numpy
 pandas
+uv
+ruff
+# image data openers libs
+laspy
+rasterio
+opencv-python
+trimesh
+# visualizing libs
+seaborn
+Open3D
+PyVista
