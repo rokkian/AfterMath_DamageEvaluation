@@ -11,3 +11,7 @@ trimesh
 seaborn
 Open3D
 PyVista
+trame
+vtk
+trame-vtk
+trame-vuetify
